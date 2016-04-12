@@ -1,0 +1,8 @@
+using matlab & libsvm
+compile make
+
+15.compile p15.m
+16&17. compile p16_17.m
+18. compile p18.m
+19. compile p19.m
+20. compile p29.m
